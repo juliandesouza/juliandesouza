@@ -5,9 +5,11 @@
 
 - ✍🏻 That's my second graduation: I'm a journalist with expertise in **Copywriting, Tech Writing, Ghost Writing, Creative Writing and Content Writing**
 
-- 👨‍💻 All of my projects are available at [https://juliandesouza.46graus.com/](https://juliandesouza.46graus.com/)
+- 👨‍💻 All of my content projects are available at [https://juliandesouza.46graus.com/](https://juliandesouza.46graus.com/)
 
-- 📄 Know about my experiences [https://juliandesouza.46graus.com/meu-curriculo/](https://juliandesouza.46graus.com/meu-curriculo/)
+- 💻 Some of my programming exercises are presents at [https://juliandesouza.github.io/](https://juliandesouza.github.io)
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/juliandesouza/](https://www.linkedin.com/in/juliandesouza/)
 
 - 👀 Astronomy, movies, music, geek universe, sports, History and stories are my interests 
 
